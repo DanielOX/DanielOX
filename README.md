@@ -62,3 +62,6 @@
 
 
 </div>
+
+
+![Visitor Count](https://profile-counter.glitch.me/danielox/count.svg)
