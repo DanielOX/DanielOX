@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DanielOX/) &nbsp;
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/data-engineer-d) &nbsp;
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
-[![stackoverflow](https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stack-overflow)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-white?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/9991377/danial-shabbir) &nbsp;
 [![research gate](https://img.shields.io/badge/researchgate-black?style=for-the-badge&logo=researchgate)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
 [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=protocolsdotio&logoColor=white)](http://danielox.github.io) &nbsp;
 
