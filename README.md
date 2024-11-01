@@ -31,7 +31,7 @@
 
 </br>
 
-<i><h2>I work wtih</h2></i>
+<h2>I work wtih</h2>
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 </div>
 
-<i><h2>Contributions</h2></i>
+<h2>Contributions</h2>
 <br/>
 
 <div align="center">
